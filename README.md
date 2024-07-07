@@ -6,5 +6,6 @@ LeetCode solutions in JavaScript programming language.
 
 | Problem ID | Problem Name       | Solution Source                             | Difficulty | Tag            |
 | ---------- | ------------------ | ------------------------------------------- | ---------- | -------------- |
+| 1          | Two Sum            | [Solution](src/array/two_sum.js)            | Easy       | Array, Hashing |
 | 217        | Contains Duplicate | [Solution](src/array/contains_duplicate.js) | Easy       | Array, Hashing |
 | 242        | Valid Anagram      | [Solution](src/string/valid_anagram.js)     | Easy       | String         |
