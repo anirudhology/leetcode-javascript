@@ -9,6 +9,7 @@ LeetCode solutions in JavaScript programming language.
 | 1          | Two Sum                      | [Solution](src/array/two_sum.js)                      | Easy       | Array, Hashing     |
 | 36         | Valid Sudoku                 | [Solution](src/array/valid_sudoku.js)                 | Medium     | Array, Hashing     |
 | 49         | Group Anagrams               | [Solution](src/string/group_anagrams.js)              | Medium     | String, Hashing    |
+| 128        | Longest Consecutive Sequence | [Solution](src/array/longest_consecutive_sequence.js) | Medium     | Array, Hashing     |
 | 217        | Contains Duplicate           | [Solution](src/array/contains_duplicate.js)           | Easy       | Array, Hashing     |
 | 238        | Product Of Array Except Self | [Solution](src/array/product_of_array_except_self.js) | Medium     | Array              |
 | 242        | Valid Anagram                | [Solution](src/string/valid_anagram.js)               | Easy       | String             |
