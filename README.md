@@ -7,6 +7,7 @@ LeetCode solutions in JavaScript programming language.
 | Problem ID | Problem Name                       | Solution Source                                           | Difficulty | Tag                          |
 | ---------- | ---------------------------------- | --------------------------------------------------------- | ---------- | ---------------------------- |
 | 1          | Two Sum                            | [Solution](src/array/two_sum.js)                          | Easy       | Array, Hashing               |
+| 11         | Container With Most Water          | [Solution](src/array/container_with_most_water.js)        | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                              | [Solution](src/array/three_sum.js)                        | Medium     | Array, Sorting, Two Pointers |
 | 36         | Valid Sudoku                       | [Solution](src/array/valid_sudoku.js)                     | Medium     | Array, Hashing               |
 | 49         | Group Anagrams                     | [Solution](src/string/group_anagrams.js)                  | Medium     | String, Hashing              |
