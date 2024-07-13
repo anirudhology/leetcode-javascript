@@ -10,6 +10,7 @@ LeetCode solutions in JavaScript programming language.
 | 11         | Container With Most Water          | [Solution](src/array/container_with_most_water.js)        | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                              | [Solution](src/array/three_sum.js)                        | Medium     | Array, Sorting, Two Pointers |
 | 36         | Valid Sudoku                       | [Solution](src/array/valid_sudoku.js)                     | Medium     | Array, Hashing               |
+| 42         | Trapping Rain Water                | [Solution](src/array/trapping_rain_water.js)              | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                     | [Solution](src/string/group_anagrams.js)                  | Medium     | String, Hashing              |
 | 125        | Valid Palindrome                   | [Solution](src/string/valid_palindrome.js)                | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](src/array/longest_consecutive_sequence.js)     | Medium     | Array, Hashing               |
