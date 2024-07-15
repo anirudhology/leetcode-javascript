@@ -15,6 +15,7 @@ LeetCode solutions in JavaScript programming language.
 | 49         | Group Anagrams                     | [Solution](src/string/group_anagrams.js)                  | Medium     | String, Hashing              |
 | 125        | Valid Palindrome                   | [Solution](src/string/valid_palindrome.js)                | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](src/array/longest_consecutive_sequence.js)     | Medium     | Array, Hashing               |
+| 155        | Min Stack                          | [Solution](src/stack/min_stack.js)                        | Medium     | Stack, Design                |
 | 167        | Two Sum II - Input Array Is Sorted | [Solution](src/array/two_sum_ii_input_array_is_sorted.js) | Medium     | Array, Two Pointers          |
 | 217        | Contains Duplicate                 | [Solution](src/array/contains_duplicate.js)               | Easy       | Array, Hashing               |
 | 238        | Product Of Array Except Self       | [Solution](src/array/product_of_array_except_self.js)     | Medium     | Array                        |
