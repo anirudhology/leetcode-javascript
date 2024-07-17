@@ -14,6 +14,7 @@ LeetCode solutions in JavaScript programming language.
 | 36         | Valid Sudoku                       | [Solution](src/array/valid_sudoku.js)                     | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                | [Solution](src/array/trapping_rain_water.js)              | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                     | [Solution](src/string/group_anagrams.js)                  | Medium     | String, Hashing              |
+| 84         | Largest Rectangle In Histogram     | [Solution](src/stack/largest_rectangle_in_histogram.js)   | Hard       | Stack, Monotonic Stack       |
 | 125        | Valid Palindrome                   | [Solution](src/string/valid_palindrome.js)                | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](src/array/longest_consecutive_sequence.js)     | Medium     | Array, Hashing               |
 | 150        | Evaluate Reverse Polish Notation   | [Solution](src/stack/evaluate_reverse_polish_notation.js) | Medium     | Stack                        |
