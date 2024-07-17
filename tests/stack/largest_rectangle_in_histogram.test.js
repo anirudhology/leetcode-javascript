@@ -1,4 +1,4 @@
-const largestRectangleArea = require('./path/to/your/largestRectangleArea');
+const largestRectangleArea = require('../../src/stack/largest_rectangle_in_histogram');
 
 describe('largestRectangleArea', () => {
     test('returns 0 for empty array', () => {
