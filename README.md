@@ -18,6 +18,7 @@ LeetCode solutions in JavaScript programming language.
 | 49         | Group Anagrams                       | [Solution](src/string/group_anagrams.js)                              | Medium     | String, Hashing              |
 | 74         | Search A 2D Matrix                   | [Solution](src/binary_search/search_a_2d_matrix.js)                   | Easy       | Binary Search                |
 | 84         | Largest Rectangle In Histogram       | [Solution](src/stack/largest_rectangle_in_histogram.js)               | Hard       | Stack, Monotonic Stack       |
+| 121        | Best Time To Buy And Sell Stocks     | [Solution](src/sliding_window/best_time_to_buy_and_sell_stocks.js)    | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                     | [Solution](src/string/valid_palindrome.js)                            | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence         | [Solution](src/array/longest_consecutive_sequence.js)                 | Medium     | Array, Hashing               |
 | 150        | Evaluate Reverse Polish Notation     | [Solution](src/stack/evaluate_reverse_polish_notation.js)             | Medium     | Stack                        |
