@@ -7,6 +7,7 @@ LeetCode solutions in JavaScript programming language.
 | Problem ID | Problem Name                         | Solution Source                                                       | Difficulty | Tag                          |
 | ---------- | ------------------------------------ | --------------------------------------------------------------------- | ---------- | ---------------------------- |
 | 1          | Two Sum                              | [Solution](src/array/two_sum.js)                                      | Easy       | Array, Hashing               |
+| 4          | Median Of Two Sorted Arrays          | [Solution](src/binary_search/median_of_two_sorted_arrays.js)          | Hard       | Binary Search                |
 | 11         | Container With Most Water            | [Solution](src/array/container_with_most_water.js)                    | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                                | [Solution](src/array/three_sum.js)                                    | Medium     | Array, Sorting, Two Pointers |
 | 20         | Valid Parentheses                    | [Solution](src/stack/valid_parentheses.js)                            | Easy       | Stack                        |
