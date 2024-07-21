@@ -31,6 +31,7 @@ LeetCode solutions in JavaScript programming language.
 | 242        | Valid Anagram                                  | [Solution](src/string/valid_anagram.js)                                          | Easy       | String                       |
 | 271        | Encode And Decode Strings                      | [Solution](src/string/encode_and_decode_strings.js)                              | Medium     | String                       |
 | 347        | Top K Frequent Elements                        | [Solution](src/array/top_k_frequent_elements.js)                                 | Medium     | Array, Bucket Sort           |
+| 424        | Longest Repeating Character Replacement        | [Solution](src/sliding_window/longest_repeating_character_replacement.js)        | Medium     | Sliding Window               |
 | 704        | Binary Search                                  | [Solution](src/binary_search/binary_search.js)                                   | Easy       | Binary Search                |
 | 739        | Daily Temperatures                             | [Solution](src/stack/daily_temperatures.js)                                      | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                                      | [Solution](src/stack/car_fleet.js)                                               | Medium     | Stack, Monotonic Stack       |
