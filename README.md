@@ -17,7 +17,8 @@ LeetCode solutions in JavaScript programming language.
 | 36         | Valid Sudoku                                   | [Solution](src/array/valid_sudoku.js)                                            | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                            | [Solution](src/array/trapping_rain_water.js)                                     | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                                 | [Solution](src/string/group_anagrams.js)                                         | Medium     | String, Hashing              |
-| 74         | Search A 2D Matrix                             | [Solution](src/binary_search/search_a_2d_matrix.js)                              | Easy       | Binary Search                |
+| 74         | Search A 2D Matrix                             | [Solution](src/binary_search/search_a_2d_matrix.js)                              | Medium     | Binary Search                |
+| 76         | Minimum Window Substring                       | [Solution](src/sliding_window/minimum_window_substring.js)                       | Hard       | Sliding Window               |
 | 84         | Largest Rectangle In Histogram                 | [Solution](src/stack/largest_rectangle_in_histogram.js)                          | Hard       | Stack, Monotonic Stack       |
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](src/sliding_window/best_time_to_buy_and_sell_stocks.js)               | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                               | [Solution](src/string/valid_palindrome.js)                                       | Medium     | String, Two Pointers         |
