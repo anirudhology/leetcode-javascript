@@ -29,6 +29,7 @@ LeetCode solutions in JavaScript programming language.
 | 167        | Two Sum II - Input Array Is Sorted             | [Solution](src/array/two_sum_ii_input_array_is_sorted.js)                        | Medium     | Array, Two Pointers          |
 | 217        | Contains Duplicate                             | [Solution](src/array/contains_duplicate.js)                                      | Easy       | Array, Hashing               |
 | 238        | Product Of Array Except Self                   | [Solution](src/array/product_of_array_except_self.js)                            | Medium     | Array                        |
+| 239        | Sliding Window Maximum                         | [Solution](src/sliding_window/sliding_window_maximum.js)                         | Hard       | Sliding Window               |
 | 242        | Valid Anagram                                  | [Solution](src/string/valid_anagram.js)                                          | Easy       | String                       |
 | 271        | Encode And Decode Strings                      | [Solution](src/string/encode_and_decode_strings.js)                              | Medium     | String                       |
 | 347        | Top K Frequent Elements                        | [Solution](src/array/top_k_frequent_elements.js)                                 | Medium     | Array, Bucket Sort           |
