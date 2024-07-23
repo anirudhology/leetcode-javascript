@@ -27,6 +27,7 @@ LeetCode solutions in JavaScript programming language.
 | 153        | Find Minimum In Rotated Sorted Array           | [Solution](src/binary_search/find_minimum_in_rotated_sorted_array.js)            | Medium     | Binary Search                |
 | 155        | Min Stack                                      | [Solution](src/stack/min_stack.js)                                               | Medium     | Stack, Design                |
 | 167        | Two Sum II - Input Array Is Sorted             | [Solution](src/array/two_sum_ii_input_array_is_sorted.js)                        | Medium     | Array, Two Pointers          |
+| 206        | Reverse Linked List                            | [Solution](src/linked_list/reverse_linked_list.js)                               | Easy       | Linked List                  |
 | 217        | Contains Duplicate                             | [Solution](src/array/contains_duplicate.js)                                      | Easy       | Array, Hashing               |
 | 238        | Product Of Array Except Self                   | [Solution](src/array/product_of_array_except_self.js)                            | Medium     | Array                        |
 | 239        | Sliding Window Maximum                         | [Solution](src/sliding_window/sliding_window_maximum.js)                         | Hard       | Sliding Window               |
