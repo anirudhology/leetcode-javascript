@@ -7,6 +7,7 @@ LeetCode solutions in JavaScript programming language.
 | Problem ID | Problem Name                                   | Solution Source                                                                  | Difficulty | Tag                          |
 | ---------- | ---------------------------------------------- | -------------------------------------------------------------------------------- | ---------- | ---------------------------- |
 | 1          | Two Sum                                        | [Solution](src/array/two_sum.js)                                                 | Easy       | Array, Hashing               |
+| 2          | Add Two Numbers                                | [Solution](src/linked_list/add_two_numbers.js)                                   | Medium     | Linked List                  |
 | 3          | Longest Substring Without Repeating Characters | [Solution](src/sliding_window/longest_substring_without_repeating_characters.js) | Easy       | Sliding Window               |
 | 4          | Median Of Two Sorted Arrays                    | [Solution](src/binary_search/median_of_two_sorted_arrays.js)                     | Hard       | Binary Search                |
 | 11         | Container With Most Water                      | [Solution](src/array/container_with_most_water.js)                               | Medium     | Array, Two Pointers          |
