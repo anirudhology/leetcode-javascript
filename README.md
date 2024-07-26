@@ -26,7 +26,7 @@ LeetCode solutions in JavaScript programming language.
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](src/sliding_window/best_time_to_buy_and_sell_stocks.js)               | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                               | [Solution](src/string/valid_palindrome.js)                                       | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                   | [Solution](src/array/longest_consecutive_sequence.js)                            | Medium     | Array, Hashing               |
-| 138        | Copy List With Random Pointer                  | [Solution](src/linked_list/copy_list_with_random_pointer.js)                     | Medium     | Linked List, Hashing         |
+| 138        | Copy List With Random Pointer                  | [Solution](src/linked_list/copy_list_with_random_pointer.js)                     | Medium     | Linked List , Hashing        |
 | 141        | Linked List Cycle                              | [Solution](src/linked_list/linked_list_cycle.js)                                 | Easy       | Linked List, Two Pointers    |
 | 143        | Reorder List                                   | [Solution](src/linked_list/reorder_list.js)                                      | Medium     | Linked List                  |
 | 150        | Evaluate Reverse Polish Notation               | [Solution](src/stack/evaluate_reverse_polish_notation.js)                        | Medium     | Stack                        |
@@ -39,6 +39,7 @@ LeetCode solutions in JavaScript programming language.
 | 239        | Sliding Window Maximum                         | [Solution](src/sliding_window/sliding_window_maximum.js)                         | Hard       | Sliding Window               |
 | 242        | Valid Anagram                                  | [Solution](src/string/valid_anagram.js)                                          | Easy       | String                       |
 | 271        | Encode And Decode Strings                      | [Solution](src/string/encode_and_decode_strings.js)                              | Medium     | String                       |
+| 287        | Find The Duplicate Number                      | [Solution](src/linked_list/find_the_duplicate_number.js)                         | Medium     | Two Pointers                 |
 | 347        | Top K Frequent Elements                        | [Solution](src/array/top_k_frequent_elements.js)                                 | Medium     | Array, Bucket Sort           |
 | 424        | Longest Repeating Character Replacement        | [Solution](src/sliding_window/longest_repeating_character_replacement.js)        | Medium     | Sliding Window               |
 | 567        | Permutation In String                          | [Solution](src/sliding_window/permutation_in_string.js)                          | Medium     | Sliding Window               |
