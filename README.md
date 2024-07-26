@@ -29,6 +29,7 @@ LeetCode solutions in JavaScript programming language.
 | 138        | Copy List With Random Pointer                  | [Solution](src/linked_list/copy_list_with_random_pointer.js)                     | Medium     | Linked List , Hashing        |
 | 141        | Linked List Cycle                              | [Solution](src/linked_list/linked_list_cycle.js)                                 | Easy       | Linked List, Two Pointers    |
 | 143        | Reorder List                                   | [Solution](src/linked_list/reorder_list.js)                                      | Medium     | Linked List                  |
+| 146        | LRU Cache                                      | [Solution](src/design/lru_cache.js)                                              | Medium     | Design, Linked List          |
 | 150        | Evaluate Reverse Polish Notation               | [Solution](src/stack/evaluate_reverse_polish_notation.js)                        | Medium     | Stack                        |
 | 153        | Find Minimum In Rotated Sorted Array           | [Solution](src/binary_search/find_minimum_in_rotated_sorted_array.js)            | Medium     | Binary Search                |
 | 155        | Min Stack                                      | [Solution](src/stack/min_stack.js)                                               | Medium     | Stack, Design                |
