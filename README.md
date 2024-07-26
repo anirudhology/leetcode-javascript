@@ -26,6 +26,7 @@ LeetCode solutions in JavaScript programming language.
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](src/sliding_window/best_time_to_buy_and_sell_stocks.js)               | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                               | [Solution](src/string/valid_palindrome.js)                                       | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                   | [Solution](src/array/longest_consecutive_sequence.js)                            | Medium     | Array, Hashing               |
+| 138        | Copy List With Random Pointer                  | [Solution](src/linked_list/copy_list_with_random_pointer.js)                     | Medium     | Linked List, Hashing         |
 | 141        | Linked List Cycle                              | [Solution](src/linked_list/linked_list_cycle.js)                                 | Easy       | Linked List, Two Pointers    |
 | 143        | Reorder List                                   | [Solution](src/linked_list/reorder_list.js)                                      | Medium     | Linked List                  |
 | 150        | Evaluate Reverse Polish Notation               | [Solution](src/stack/evaluate_reverse_polish_notation.js)                        | Medium     | Stack                        |
