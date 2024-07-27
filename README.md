@@ -16,6 +16,7 @@ LeetCode solutions in JavaScript programming language.
 | 20         | Valid Parentheses                              | [Solution](src/stack/valid_parentheses.js)                                       | Easy       | Stack                        |
 | 21         | Merge Two Sorted Lists                         | [Solution](src/linked_list/merge_two_sorted_lists.js)                            | Easy       | Linked List                  |
 | 22         | Generate Parentheses                           | [Solution](src/stack/generate_parentheses.js)                                    | Medium     | Stack, Backtracking          |
+| 23         | Merge K Sorted Lists                           | [Solution](src/linked_list/merge_k_sorted_lists.js)                              | Hard       | Linked List                  |
 | 33         | Search In Rotated Sorted Array                 | [Solution](src/binary_search/search_in_rotated_sorted_array.js)                  | Medium     | Binary Search                |
 | 36         | Valid Sudoku                                   | [Solution](src/array/valid_sudoku.js)                                            | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                            | [Solution](src/array/trapping_rain_water.js)                                     | Hard       | Array, Two Pointers          |
