@@ -38,6 +38,7 @@ LeetCode solutions in JavaScript programming language.
 | 167        | Two Sum II - Input Array Is Sorted             | [Solution](src/array/two_sum_ii_input_array_is_sorted.js)                        | Medium     | Array, Two Pointers          |
 | 206        | Reverse Linked List                            | [Solution](src/linked_list/reverse_linked_list.js)                               | Easy       | Linked List                  |
 | 217        | Contains Duplicate                             | [Solution](src/array/contains_duplicate.js)                                      | Easy       | Array, Hashing               |
+| 226        | Invert Binary Tree                             | [Solution](src/tree/invert_binary_tree.js)                                       | Easy       | Binary Tree, Recursion       |
 | 238        | Product Of Array Except Self                   | [Solution](src/array/product_of_array_except_self.js)                            | Medium     | Array                        |
 | 239        | Sliding Window Maximum                         | [Solution](src/sliding_window/sliding_window_maximum.js)                         | Hard       | Sliding Window               |
 | 242        | Valid Anagram                                  | [Solution](src/string/valid_anagram.js)                                          | Easy       | String                       |
