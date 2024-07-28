@@ -25,6 +25,7 @@ LeetCode solutions in JavaScript programming language.
 | 74         | Search A 2D Matrix                             | [Solution](src/binary_search/search_a_2d_matrix.js)                              | Medium     | Binary Search                |
 | 76         | Minimum Window Substring                       | [Solution](src/sliding_window/minimum_window_substring.js)                       | Hard       | Sliding Window               |
 | 84         | Largest Rectangle In Histogram                 | [Solution](src/stack/largest_rectangle_in_histogram.js)                          | Hard       | Stack, Monotonic Stack       |
+| 104        | Maximum Depth Of Binary Tree                   | [Solution](src/tree/maximum_depth_of_binary_tree.js)                             | Easy       | Binary Tree, Recursion       |
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](src/sliding_window/best_time_to_buy_and_sell_stocks.js)               | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                               | [Solution](src/string/valid_palindrome.js)                                       | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                   | [Solution](src/array/longest_consecutive_sequence.js)                            | Medium     | Array, Hashing               |
