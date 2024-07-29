@@ -51,6 +51,7 @@ LeetCode solutions in JavaScript programming language.
 | 424        | Longest Repeating Character Replacement        | [Solution](src/sliding_window/longest_repeating_character_replacement.js)        | Medium     | Sliding Window               |
 | 543        | Diameter Of Binary Tree                        | [Solution](src/tree/diameter_of_binary_tree.js)                                  | Easy       | Binary Tree                  |
 | 567        | Permutation In String                          | [Solution](src/sliding_window/permutation_in_string.js)                          | Medium     | Sliding Window               |
+| 572        | Subtree Of Another Tree                        | [Solution](src/tree/subtree_of_another_tree.js)                                  | Easy       | Binary Tree                  |
 | 704        | Binary Search                                  | [Solution](src/binary_search/binary_search.js)                                   | Easy       | Binary Search                |
 | 739        | Daily Temperatures                             | [Solution](src/stack/daily_temperatures.js)                                      | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                                      | [Solution](src/stack/car_fleet.js)                                               | Medium     | Stack, Monotonic Stack       |
