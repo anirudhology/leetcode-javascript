@@ -60,3 +60,4 @@ LeetCode solutions in JavaScript programming language.
 | 853        | Car Fleet                                      | [Solution](src/stack/car_fleet.js)                                               | Medium     | Stack, Monotonic Stack       |
 | 875        | Koko Eating Bananas                            | [Solution](src/binary_search/koko_eating_bananas.js)                             | Medium     | Binary Search                |
 | 981        | Time Based Key Value Store                     | [Solution](src/binary_search/time_based_key_value_store.js)                      | Medium     | Binary Search                |
+| 1448       | Count Good Nodes In Binary Tree                | [Solution](src/tree/count_good_nodes_in_binary_tree.js)                          | Medium     | Binary Tree, DFS             |
