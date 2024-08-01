@@ -32,9 +32,10 @@ LeetCode solutions in JavaScript programming language.
 | 105        | Construct Binary Tree From Preorder And Inorder Traversal | [Solution](src/tree/construct_binary_tree_from_preorder_and_inorder_traversal.js) | Medium     | Binary Tree, DFS             |
 | 110        | Balanced Binary Tree                                      | [Solution](src/tree/balanced_binary_tree.js)                                      | Easy       | Binary Tree, DFS             |
 | 121        | Best Time To Buy And Sell Stocks                          | [Solution](src/sliding_window/best_time_to_buy_and_sell_stocks.js)                | Easy       | Sliding Window               |
+| 124        | Binary Tree Maximum Path Sum                              | [Solution](src/tree/binary_tree_maximum_path_sum.js)                              | Hard       | Binary Tree, DFS             |
 | 125        | Valid Palindrome                                          | [Solution](src/string/valid_palindrome.js)                                        | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                              | [Solution](src/array/longest_consecutive_sequence.js)                             | Medium     | Array, Hashing               |
-| 138        | Copy List With Random Pointer                             | [Solution](src/linked_list/copy_list_with_random_pointer.js)                      | Medium     | Linked List , Hashing        |
+| 138        | Copy List With Random Pointer                             | [Solution](src/linked_list/copy_list_with_random_pointer.js)                      | Medium     | Linked List, Hashing         |
 | 141        | Linked List Cycle                                         | [Solution](src/linked_list/linked_list_cycle.js)                                  | Easy       | Linked List, Two Pointers    |
 | 143        | Reorder List                                              | [Solution](src/linked_list/reorder_list.js)                                       | Medium     | Linked List                  |
 | 146        | LRU Cache                                                 | [Solution](src/design/lru_cache.js)                                               | Medium     | Design, Linked List          |
