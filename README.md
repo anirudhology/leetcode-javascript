@@ -54,6 +54,7 @@ LeetCode solutions in JavaScript programming language.
 | 242        | Valid Anagram                                             | [Solution](src/string/valid_anagram.js)                                           | Easy       | String                       |
 | 271        | Encode And Decode Strings                                 | [Solution](src/string/encode_and_decode_strings.js)                               | Medium     | String                       |
 | 287        | Find The Duplicate Number                                 | [Solution](src/linked_list/find_the_duplicate_number.js)                          | Medium     | Two Pointers                 |
+| 297        | Serialize And Deserialize Binary Tree                     | [Solution](src/tree/serialize_and_deserialize_binary_tree.js)                     | Hard       | Binary Tree, DFS             |
 | 347        | Top K Frequent Elements                                   | [Solution](src/array/top_k_frequent_elements.js)                                  | Medium     | Array, Bucket Sort           |
 | 424        | Longest Repeating Character Replacement                   | [Solution](src/sliding_window/longest_repeating_character_replacement.js)         | Medium     | Sliding Window               |
 | 543        | Diameter Of Binary Tree                                   | [Solution](src/tree/diameter_of_binary_tree.js)                                   | Easy       | Binary Tree                  |
