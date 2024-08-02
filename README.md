@@ -45,6 +45,7 @@ LeetCode solutions in JavaScript programming language.
 | 167        | Two Sum II - Input Array Is Sorted                        | [Solution](src/array/two_sum_ii_input_array_is_sorted.js)                         | Medium     | Array, Two Pointers          |
 | 199        | Binary Tree Right Side View                               | [Solution](src/tree/binary_tree_right_side_view.js)                               | Medium     | Binary Tree, BFS             |
 | 206        | Reverse Linked List                                       | [Solution](src/linked_list/reverse_linked_list.js)                                | Easy       | Linked List                  |
+| 208        | Implement Trie (Prefix Tree)                              | [Solution](src/trie/implement_trie.js)                                            | Medium     | Trie, Design                 |
 | 217        | Contains Duplicate                                        | [Solution](src/array/contains_duplicate.js)                                       | Easy       | Array, Hashing               |
 | 226        | Invert Binary Tree                                        | [Solution](src/tree/invert_binary_tree.js)                                        | Easy       | Binary Tree, Recursion       |
 | 230        | Kth Smallest Element In A BST                             | [Solution](src/tree/kth_smallest_element_in_a_bst.js)                             | Medium     | Binary tree, BST, DFS        |
