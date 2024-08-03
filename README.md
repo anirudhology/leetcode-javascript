@@ -20,6 +20,7 @@ LeetCode solutions in JavaScript programming language.
 | 25         | Reverse Nodes In K Group                                  | [Solution](src/linked_list/reverse_nodes_in_k_group.js)                           | Hard       | Linked List                  |
 | 33         | Search In Rotated Sorted Array                            | [Solution](src/binary_search/search_in_rotated_sorted_array.js)                   | Medium     | Binary Search                |
 | 36         | Valid Sudoku                                              | [Solution](src/array/valid_sudoku.js)                                             | Medium     | Array, Hashing               |
+| 39         | Combination Sum                                           | [Solution](src/backtracking/combination_sum.js)                                   | Medium     | Backtracking                 |
 | 42         | Trapping Rain Water                                       | [Solution](src/array/trapping_rain_water.js)                                      | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                                            | [Solution](src/string/group_anagrams.js)                                          | Medium     | String, Hashing              |
 | 74         | Search A 2D Matrix                                        | [Solution](src/binary_search/search_a_2d_matrix.js)                               | Medium     | Binary Search                |
