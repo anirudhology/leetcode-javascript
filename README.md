@@ -25,6 +25,7 @@ LeetCode solutions in JavaScript programming language.
 | 74         | Search A 2D Matrix                                        | [Solution](src/binary_search/search_a_2d_matrix.js)                               | Medium     | Binary Search                |
 | 76         | Minimum Window Substring                                  | [Solution](src/sliding_window/minimum_window_substring.js)                        | Hard       | Sliding Window               |
 | 76         | Minimum Window Substring                                  | [Solution](src/sliding_window/minimum_window_substring.js)                        | Hard       | Sliding Window               |
+| 78         | Subsets                                                   | [Solution](src/backtracking/subsets.js)                                           | Medium     | Backtracking,                |
 | 79         | Word Search                                               | [Solution](src/backtracking/word_search.js)                                       | Medium     | Backtracking, DFS            |
 | 98         | Validate Binary Search Tree                               | [Solution](src/tree/validate_binary_search_tree.js)                               | Medium     | Binary Tree, BST, DFS        |
 | 100        | Same Tree                                                 | [Solution](src/tree/same_tree.js)                                                 | Easy       | Binary Tree                  |
