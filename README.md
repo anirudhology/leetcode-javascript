@@ -27,8 +27,10 @@ LeetCode solutions in JavaScript programming language.
 | 74         | Search A 2D Matrix                                        | [Solution](src/binary_search/search_a_2d_matrix.js)                               | Medium     | Binary Search                |
 | 76         | Minimum Window Substring                                  | [Solution](src/sliding_window/minimum_window_substring.js)                        | Hard       | Sliding Window               |
 | 76         | Minimum Window Substring                                  | [Solution](src/sliding_window/minimum_window_substring.js)                        | Hard       | Sliding Window               |
-| 78         | Subsets                                                   | [Solution](src/backtracking/subsets.js)                                           | Medium     | Backtracking,                |
+| 78         | Subsets                                                   | [Solution](src/backtracking/subsets.js)                                           | Medium     | Backtracking                 |
 | 79         | Word Search                                               | [Solution](src/backtracking/word_search.js)                                       | Medium     | Backtracking, DFS            |
+| 84         | Largest Rectangle In Histogram                            | [Solution](src/stack/largest_rectangle_in_histogram.js)                           | Hard       | Stack, Monotonic Stack       |
+| 90         | Subsets II                                                | [Solution](src/backtracking/subsets_ii.js)                                        | Medium     | Backtracking                 |
 | 98         | Validate Binary Search Tree                               | [Solution](src/tree/validate_binary_search_tree.js)                               | Medium     | Binary Tree, BST, DFS        |
 | 100        | Same Tree                                                 | [Solution](src/tree/same_tree.js)                                                 | Easy       | Binary Tree                  |
 | 100        | Binary Tree Level Order Traversal                         | [Solution](src/tree/binary_tree_level_order_traversal.js)                         | Medium     | Binary Tree, BFS             |
