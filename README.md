@@ -21,6 +21,7 @@ LeetCode solutions in JavaScript programming language.
 | 33         | Search In Rotated Sorted Array                            | [Solution](src/binary_search/search_in_rotated_sorted_array.js)                   | Medium     | Binary Search                |
 | 36         | Valid Sudoku                                              | [Solution](src/array/valid_sudoku.js)                                             | Medium     | Array, Hashing               |
 | 39         | Combination Sum                                           | [Solution](src/backtracking/combination_sum.js)                                   | Medium     | Backtracking                 |
+| 40         | Combination Sum II                                        | [Solution](src/backtracking/combination_sum_ii.js)                                | Medium     | Backtracking                 |
 | 42         | Trapping Rain Water                                       | [Solution](src/array/trapping_rain_water.js)                                      | Hard       | Array, Two Pointers          |
 | 46         | Permutations                                              | [Solution](src/backtracking/permutations.js)                                      | Medium     | Backtracking                 |
 | 49         | Group Anagrams                                            | [Solution](src/string/group_anagrams.js)                                          | Medium     | String, Hashing              |
