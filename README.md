@@ -78,6 +78,7 @@ LeetCode solutions in JavaScript programming language.
 | 739        | Daily Temperatures                                        | [Solution](src/stack/daily_temperatures.js)                                       | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                                                 | [Solution](src/stack/car_fleet.js)                                                | Medium     | Stack, Monotonic Stack       |
 | 875        | Koko Eating Bananas                                       | [Solution](src/binary_search/koko_eating_bananas.js)                              | Medium     | Binary Search                |
+| 973        | K Closest Points To Origin                                | [Solution](src/heap/k_closest_points_to_origin.js)                                | Medium     | Heap                         |
 | 981        | Time Based Key Value Store                                | [Solution](src/binary_search/time_based_key_value_store.js)                       | Medium     | Binary Search                |
 | 1046       | Last Stone Weight                                         | [Solution](src/heap/last_stone_weight.js)                                         | Easy       | Backtracking                 |
 | 1448       | Count Good Nodes In Binary Tree                           | [Solution](src/tree/count_good_nodes_in_binary_tree.js)                           | Medium     | Binary Tree, DFS             |
