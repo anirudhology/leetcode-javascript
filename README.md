@@ -60,6 +60,7 @@ LeetCode solutions in JavaScript programming language.
 | 208        | Implement Trie (Prefix Tree)                              | [Solution](src/trie/implement_trie.js)                                            | Medium     | Trie, Design                 |
 | 211        | Design Add And Search Words Data Structure                | [Solution](src/trie/design_add_and_search_words_data_structure.js)                | Medium     | Trie, Design                 |
 | 212        | Word Search II                                            | [Solution](src/trie/word_search_ii.js)                                            | Hard       | Trie, Backtracking           |
+| 213        | House Robber II                                           | [Solution](src/dynamic_programming/house_robber_ii.js)                            | Medium     | Dynamic Programming          |
 | 215        | Kth Largest Element In An Array                           | [Solution](src/quick_select/kth_largest_element_in_an_array.js)                   | Medium     | Quick Select                 |
 | 217        | Contains Duplicate                                        | [Solution](src/array/contains_duplicate.js)                                       | Easy       | Array, Hashing               |
 | 226        | Invert Binary Tree                                        | [Solution](src/tree/invert_binary_tree.js)                                        | Easy       | Binary Tree, Recursion       |
