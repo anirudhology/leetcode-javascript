@@ -49,6 +49,7 @@ LeetCode solutions in JavaScript programming language.
 | 128        | Longest Consecutive Sequence                              | [Solution](src/array/longest_consecutive_sequence.js)                             | Medium     | Array, Hashing                    |
 | 131        | Palindrome Partitioning                                   | [Solution](src/backtracking/palindrome_partitioning.js)                           | Medium     | Backtracking                      |
 | 138        | Copy List With Random Pointer                             | [Solution](src/linked_list/copy_list_with_random_pointer.js)                      | Medium     | Linked List, Hashing              |
+| 139        | Word Break                                                | [Solution](src/dynamic_programming/word_break.js)                                 | Medium     | Dynamic Programming               |
 | 141        | Linked List Cycle                                         | [Solution](src/linked_list/linked_list_cycle.js)                                  | Easy       | Linked List, Two Pointers         |
 | 143        | Reorder List                                              | [Solution](src/linked_list/reorder_list.js)                                       | Medium     | Linked List                       |
 | 146        | LRU Cache                                                 | [Solution](src/design/lru_cache.js)                                               | Medium     | Design, Linked List               |
