@@ -86,6 +86,7 @@ LeetCode solutions in JavaScript programming language.
 | 567        | Permutation In String                                     | [Solution](src/sliding_window/permutation_in_string.js)                           | Medium     | Sliding Window                    |
 | 572        | Subtree Of Another Tree                                   | [Solution](src/tree/subtree_of_another_tree.js)                                   | Easy       | Binary Tree                       |
 | 647        | Palindromic Substring                                     | [Solution](src/dynamic_programming/palindromic_substring.js)                      | Medium     | Dynamic Programming, Two Pointers |
+| 695        | Max Area Of Island                                        | [Solution](src/dfs/max_area_of_island.js)                                         | Medium     | DFS                               |
 | 703        | Kth Largest Element In A Stream                           | [Solution](src/heap/kth_largest_element_in_a_stream.js)                           | Easy       | Heap                              |
 | 704        | Binary Search                                             | [Solution](src/binary_search/binary_search.js)                                    | Easy       | Binary Search                     |
 | 739        | Daily Temperatures                                        | [Solution](src/stack/daily_temperatures.js)                                       | Medium     | Stack, Monotonic Stack            |
