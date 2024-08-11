@@ -60,6 +60,7 @@ LeetCode solutions in JavaScript programming language.
 | 167        | Two Sum II - Input Array Is Sorted                        | [Solution](src/array/two_sum_ii_input_array_is_sorted.js)                         | Medium     | Array, Two Pointers               |
 | 198        | House Robber                                              | [Solution](src/dynamic_programming/house_robber.js)                               | Medium     | Dynamic Programming               |
 | 199        | Binary Tree Right Side View                               | [Solution](src/tree/binary_tree_right_side_view.js)                               | Medium     | Binary Tree, BFS                  |
+| 200        | Number Of Islands                                         | [Solution](src/dfs/number_of_islands.js)                                          | Medium     | DFS                               |
 | 206        | Reverse Linked List                                       | [Solution](src/linked_list/reverse_linked_list.js)                                | Easy       | Linked List                       |
 | 208        | Implement Trie (Prefix Tree)                              | [Solution](src/trie/implement_trie.js)                                            | Medium     | Trie, Design                      |
 | 211        | Design Add And Search Words Data Structure                | [Solution](src/trie/design_add_and_search_words_data_structure.js)                | Medium     | Trie, Design                      |
