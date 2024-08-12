@@ -97,5 +97,6 @@ LeetCode solutions in JavaScript programming language.
 | 875        | Koko Eating Bananas                                       | [Solution](src/binary_search/koko_eating_bananas.js)                              | Medium     | Binary Search                     |
 | 973        | K Closest Points To Origin                                | [Solution](src/heap/k_closest_points_to_origin.js)                                | Medium     | Heap                              |
 | 981        | Time Based Key Value Store                                | [Solution](src/binary_search/time_based_key_value_store.js)                       | Medium     | Binary Search                     |
+| 994        | Rotting Oranges                                           | [Solution](src/bfs/rotting_oranges.js)                                            | Medium     | BFS                               |
 | 1046       | Last Stone Weight                                         | [Solution](src/heap/last_stone_weight.js)                                         | Easy       | Backtracking                      |
 | 1448       | Count Good Nodes In Binary Tree                           | [Solution](src/tree/count_good_nodes_in_binary_tree.js)                           | Medium     | Binary Tree, DFS                  |
