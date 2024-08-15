@@ -47,6 +47,7 @@ LeetCode solutions in JavaScript programming language.
 | 124        | Binary Tree Maximum Path Sum                              | [Solution](src/tree/binary_tree_maximum_path_sum.js)                              | Hard       | Binary Tree, DFS                  |
 | 125        | Valid Palindrome                                          | [Solution](src/string/valid_palindrome.js)                                        | Medium     | String, Two Pointers              |
 | 128        | Longest Consecutive Sequence                              | [Solution](src/array/longest_consecutive_sequence.js)                             | Medium     | Array, Hashing                    |
+| 130        | Surrounded Regions                                        | [Solution](src/dfs/surrounded_regions.js)                                         | Medium     | DFS                               |
 | 131        | Palindrome Partitioning                                   | [Solution](src/backtracking/palindrome_partitioning.js)                           | Medium     | Backtracking                      |
 | 133        | Clone Graph                                               | [Solution](src/graph/clone_graph.js)                                              | Medium     | Graph, DFS                        |
 | 138        | Copy List With Random Pointer                             | [Solution](src/linked_list/copy_list_with_random_pointer.js)                      | Medium     | Linked List, Hashing              |
