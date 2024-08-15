@@ -28,6 +28,7 @@ LeetCode solutions in JavaScript programming language.
 | 46         | Permutations                                              | [Solution](src/backtracking/permutations.js)                                      | Medium     | Backtracking                      |
 | 49         | Group Anagrams                                            | [Solution](src/string/group_anagrams.js)                                          | Medium     | String, Hashing                   |
 | 51         | N Queens                                                  | [Solution](src/backtracking/n_queens.js)                                          | Hard       | Backtracking                      |
+| 57         | Insert Interval                                           | [Solution](src/intervals/insert_interval.js)                                      | Medium     | Intervals                         |
 | 70         | Climbing Stairs                                           | [Solution](src/dynamic_programming/climbing_stairs.js)                            | Easy       | Dynamic Programming               |
 | 74         | Search A 2D Matrix                                        | [Solution](src/binary_search/search_a_2d_matrix.js)                               | Medium     | Binary Search                     |
 | 76         | Minimum Window Substring                                  | [Solution](src/sliding_window/minimum_window_substring.js)                        | Hard       | Sliding Window                    |
