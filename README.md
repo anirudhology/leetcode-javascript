@@ -89,6 +89,7 @@ LeetCode solutions in JavaScript programming language.
 | 416        | Partition Equal Subset Sum                                | [Solution](src/dynamic_programming/partition_equal_subset_sum.js)                 | Medium     | Dynamic Programming               |
 | 417        | Pacific Atlantic Water Flow                               | [Solution](src/bfs/pacific_atlantic_water_flow.js)                                | Medium     | BFS                               |
 | 424        | Longest Repeating Character Replacement                   | [Solution](src/sliding_window/longest_repeating_character_replacement.js)         | Medium     | Sliding Window                    |
+| 435        | Non-overlapping Intervals                                 | [Solution](src/intervals/non_overlapping_intervals.js)                            | Medium     | Intervals, Sorting                |
 | 543        | Diameter Of Binary Tree                                   | [Solution](src/tree/diameter_of_binary_tree.js)                                   | Easy       | Binary Tree                       |
 | 567        | Permutation In String                                     | [Solution](src/sliding_window/permutation_in_string.js)                           | Medium     | Sliding Window                    |
 | 572        | Subtree Of Another Tree                                   | [Solution](src/tree/subtree_of_another_tree.js)                                   | Easy       | Binary Tree                       |
