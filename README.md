@@ -77,6 +77,7 @@ LeetCode solutions in JavaScript programming language.
 | 238        | Product Of Array Except Self                              | [Solution](src/array/product_of_array_except_self.js)                             | Medium     | Array                             |
 | 239        | Sliding Window Maximum                                    | [Solution](src/sliding_window/sliding_window_maximum.js)                          | Hard       | Sliding Window                    |
 | 242        | Valid Anagram                                             | [Solution](src/string/valid_anagram.js)                                           | Easy       | String                            |
+| 252        | Meeting Rooms                                             | [Solution](src/intervals/meeting_rooms.js)                                        | Easy       | Intervals, Sorting                |
 | 271        | Encode And Decode Strings                                 | [Solution](src/string/encode_and_decode_strings.js)                               | Medium     | String                            |
 | 286        | Walls And Gates                                           | [Solution](src/bfs/walls_and_gates.js)                                            | Medium     | BFS                               |
 | 287        | Find The Duplicate Number                                 | [Solution](src/linked_list/find_the_duplicate_number.js)                          | Medium     | Two Pointers                      |
