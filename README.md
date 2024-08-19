@@ -108,3 +108,4 @@ LeetCode solutions in JavaScript programming language.
 | 994        | Rotting Oranges                                           | [Solution](src/bfs/rotting_oranges.js)                                            | Medium     | BFS                               |
 | 1046       | Last Stone Weight                                         | [Solution](src/heap/last_stone_weight.js)                                         | Easy       | Backtracking                      |
 | 1448       | Count Good Nodes In Binary Tree                           | [Solution](src/tree/count_good_nodes_in_binary_tree.js)                           | Medium     | Binary Tree, DFS                  |
+| 1851       | Minimum Interval To Include Each Query                    | [Solution](src/intervals/minimum_interval_to_include_each_query.js)               | Hard       | Intervals, Heap                   |
