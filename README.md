@@ -68,6 +68,7 @@ LeetCode solutions in JavaScript programming language.
 | 206        | Reverse Linked List                                       | [Solution](src/linked_list/reverse_linked_list.js)                                | Easy       | Linked List                       |
 | 207        | Course Schedule                                           | [Solution](src/graph/course_schedule.js)                                          | Medium     | Graph, Topological Sort           |
 | 208        | Implement Trie (Prefix Tree)                              | [Solution](src/trie/implement_trie.js)                                            | Medium     | Trie, Design                      |
+| 210        | Course Schedule II                                        | [Solution](src/graph/course_schedule_ii.js)                                       | Medium     | Graph, Topological Sort           |
 | 211        | Design Add And Search Words Data Structure                | [Solution](src/trie/design_add_and_search_words_data_structure.js)                | Medium     | Trie, Design                      |
 | 212        | Word Search II                                            | [Solution](src/trie/word_search_ii.js)                                            | Hard       | Trie, Backtracking                |
 | 213        | House Robber II                                           | [Solution](src/dynamic_programming/house_robber_ii.js)                            | Medium     | Dynamic Programming               |
