@@ -92,6 +92,7 @@ LeetCode solutions in JavaScript programming language.
 | 322        | Coin Change                                               | [Solution](src/dynamic_programming/coin_change.js)                                  | Medium     | Dynamic Programming               |
 | 323        | Number Of Connected Components In An Undirected Graph     | [Solution](src/union_find/number_of_connected_components_in_an_undirected_graph.js) | Medium     | Graph, Union Find                 |
 | 347        | Top K Frequent Elements                                   | [Solution](src/array/top_k_frequent_elements.js)                                    | Medium     | Array, Bucket Sort                |
+| 355        | Design Twitter                                            | [Solution](src/design/design_twitter.js)                                            | Medium     | Design, Heap                      |
 | 416        | Partition Equal Subset Sum                                | [Solution](src/dynamic_programming/partition_equal_subset_sum.js)                   | Medium     | Dynamic Programming               |
 | 417        | Pacific Atlantic Water Flow                               | [Solution](src/bfs/pacific_atlantic_water_flow.js)                                  | Medium     | BFS                               |
 | 424        | Longest Repeating Character Replacement                   | [Solution](src/sliding_window/longest_repeating_character_replacement.js)           | Medium     | Sliding Window                    |
