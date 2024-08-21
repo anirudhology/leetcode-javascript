@@ -86,6 +86,7 @@ LeetCode solutions in JavaScript programming language.
 | 271        | Encode And Decode Strings                                 | [Solution](src/string/encode_and_decode_strings.js)                                 | Medium     | String                            |
 | 286        | Walls And Gates                                           | [Solution](src/bfs/walls_and_gates.js)                                              | Medium     | BFS                               |
 | 287        | Find The Duplicate Number                                 | [Solution](src/linked_list/find_the_duplicate_number.js)                            | Medium     | Two Pointers                      |
+| 295        | Find Median From Data Stream                              | [Solution](src/heap/find_median_from_data_stream.js)                                | Hard       | Heaps                             |
 | 297        | Serialize And Deserialize Binary Tree                     | [Solution](src/tree/serialize_and_deserialize_binary_tree.js)                       | Hard       | Binary Tree, DFS                  |
 | 300        | Longest Increasing Subsequence                            | [Solution](src/dynamic_programming/longest_increasing_subsequence.js)               | Medium     | Dynamic Programming               |
 | 322        | Coin Change                                               | [Solution](src/dynamic_programming/coin_change.js)                                  | Medium     | Dynamic Programming               |
