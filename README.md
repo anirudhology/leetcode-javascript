@@ -64,6 +64,7 @@ LeetCode solutions in JavaScript programming language.
 | 153        | Find Minimum In Rotated Sorted Array                      | [Solution](src/binary_search/find_minimum_in_rotated_sorted_array.js)                 | Medium     | Binary Search                     |
 | 155        | Min Stack                                                 | [Solution](src/stack/min_stack.js)                                                    | Medium     | Stack, Design                     |
 | 167        | Two Sum II - Input Array Is Sorted                        | [Solution](src/array/two_sum_ii_input_array_is_sorted.js)                             | Medium     | Array, Two Pointers               |
+| 191        | Number Of 1 Bits                                          | [Solution](src/bit_manipulation/number_of_1_bits.js)                                  | Easy       | Bit Manipulation                  |
 | 198        | House Robber                                              | [Solution](src/dynamic_programming/house_robber.js)                                   | Medium     | Dynamic Programming               |
 | 199        | Binary Tree Right Side View                               | [Solution](src/tree/binary_tree_right_side_view.js)                                   | Medium     | Binary Tree, BFS                  |
 | 200        | Number Of Islands                                         | [Solution](src/dfs/number_of_islands.js)                                              | Medium     | DFS                               |
