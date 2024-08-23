@@ -99,6 +99,7 @@ LeetCode solutions in JavaScript programming language.
 | 417        | Pacific Atlantic Water Flow                               | [Solution](src/bfs/pacific_atlantic_water_flow.js)                                    | Medium     | BFS                               |
 | 424        | Longest Repeating Character Replacement                   | [Solution](src/sliding_window/longest_repeating_character_replacement.js)             | Medium     | Sliding Window                    |
 | 435        | Non-overlapping Intervals                                 | [Solution](src/intervals/non_overlapping_intervals.js)                                | Medium     | Intervals, Sorting                |
+| 494        | Target Sum                                                | [Solution](src/dynamic_programming/target_sum.js)                                     | Medium     | Dynamic Programming               |
 | 518        | Coin Change II                                            | [Solution](src/dynamic_programming/coin_change_ii.js)                                 | Medium     | Dynamic Programming               |
 | 543        | Diameter Of Binary Tree                                   | [Solution](src/tree/diameter_of_binary_tree.js)                                       | Easy       | Binary Tree                       |
 | 567        | Permutation In String                                     | [Solution](src/sliding_window/permutation_in_string.js)                               | Medium     | Sliding Window                    |
