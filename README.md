@@ -30,6 +30,7 @@ LeetCode solutions in JavaScript programming language.
 | 48         | Rotate Image                                              | [Solution](src/math/rotate_image.js)                                                  | Medium     | Math, Matrix                          |
 | 49         | Group Anagrams                                            | [Solution](src/string/group_anagrams.js)                                              | Medium     | String, Hashing                       |
 | 51         | N Queens                                                  | [Solution](src/backtracking/n_queens.js)                                              | Hard       | Backtracking                          |
+| 51         | Spiral Matrix                                             | [Solution](src/matrix/spiral_matrix.js)                                               | Medium     | Matrix                                |
 | 56         | Merge Intervals                                           | [Solution](src/intervals/merge_intervals.js)                                          | Medium     | Intervals, Array                      |
 | 57         | Insert Interval                                           | [Solution](src/intervals/insert_interval.js)                                          | Medium     | Intervals, Array                      |
 | 62         | Unique Paths                                              | [Solution](src/dynamic_programming/unique_paths.js)                                   | Medium     | Dynamic Programming                   |
