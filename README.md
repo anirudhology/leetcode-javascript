@@ -50,6 +50,7 @@ LeetCode solutions in JavaScript programming language.
 | 121        | Best Time To Buy And Sell Stocks                          | [Solution](src/sliding_window/best_time_to_buy_and_sell_stocks.js)                    | Easy       | Sliding Window                        |
 | 124        | Binary Tree Maximum Path Sum                              | [Solution](src/tree/binary_tree_maximum_path_sum.js)                                  | Hard       | Binary Tree, DFS                      |
 | 125        | Valid Palindrome                                          | [Solution](src/string/valid_palindrome.js)                                            | Medium     | String, Two Pointers                  |
+| 127        | Word Ladder                                               | [Solution](src/bfs/word_ladder.js)                                                    | Hard       | BFS                                   |
 | 128        | Longest Consecutive Sequence                              | [Solution](src/array/longest_consecutive_sequence.js)                                 | Medium     | Array, Hashing                        |
 | 130        | Surrounded Regions                                        | [Solution](src/dfs/surrounded_regions.js)                                             | Medium     | DFS                                   |
 | 131        | Palindrome Partitioning                                   | [Solution](src/backtracking/palindrome_partitioning.js)                               | Medium     | Backtracking                          |
