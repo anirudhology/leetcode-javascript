@@ -74,6 +74,7 @@ LeetCode solutions in JavaScript programming language.
 | 198        | House Robber                                              | [Solution](src/dynamic_programming/house_robber.js)                                   | Medium     | Dynamic Programming                   |
 | 199        | Binary Tree Right Side View                               | [Solution](src/tree/binary_tree_right_side_view.js)                                   | Medium     | Binary Tree, BFS                      |
 | 200        | Number Of Islands                                         | [Solution](src/dfs/number_of_islands.js)                                              | Medium     | DFS                                   |
+| 202        | Happy Number                                              | [Solution](src/math/happy_number.js)                                                  | Easy       | MAth                                  |
 | 206        | Reverse Linked List                                       | [Solution](src/linked_list/reverse_linked_list.js)                                    | Easy       | Linked List                           |
 | 207        | Course Schedule                                           | [Solution](src/graph/course_schedule.js)                                              | Medium     | Graph, Topological Sort               |
 | 208        | Implement Trie (Prefix Tree)                              | [Solution](src/trie/implement_trie.js)                                                | Medium     | Trie, Design                          |
