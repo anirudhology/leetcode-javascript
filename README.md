@@ -29,6 +29,7 @@ LeetCode solutions in JavaScript programming language.
 | 46         | Permutations                                              | [Solution](src/backtracking/permutations.js)                                          | Medium     | Backtracking                          |
 | 48         | Rotate Image                                              | [Solution](src/math/rotate_image.js)                                                  | Medium     | Math, Matrix                          |
 | 49         | Group Anagrams                                            | [Solution](src/string/group_anagrams.js)                                              | Medium     | String, Hashing                       |
+| 50         | Pow (x, n)                                                | [Solution](src/math/pow_xn.js)                                                        | Medium     | Math                                  |
 | 51         | N Queens                                                  | [Solution](src/backtracking/n_queens.js)                                              | Hard       | Backtracking                          |
 | 51         | Spiral Matrix                                             | [Solution](src/matrix/spiral_matrix.js)                                               | Medium     | Matrix                                |
 | 56         | Merge Intervals                                           | [Solution](src/intervals/merge_intervals.js)                                          | Medium     | Intervals, Array                      |
