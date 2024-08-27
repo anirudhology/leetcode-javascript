@@ -35,6 +35,7 @@ LeetCode solutions in JavaScript programming language.
 | 57         | Insert Interval                                           | [Solution](src/intervals/insert_interval.js)                                          | Medium     | Intervals, Array                      |
 | 62         | Unique Paths                                              | [Solution](src/dynamic_programming/unique_paths.js)                                   | Medium     | Dynamic Programming                   |
 | 70         | Climbing Stairs                                           | [Solution](src/dynamic_programming/climbing_stairs.js)                                | Easy       | Dynamic Programming                   |
+| 73         | Set Matrix Zeroes                                         | [Solution](src/matrix/set_matrix_zeroes.js)                                           | Medium     | Matrix                                |
 | 74         | Search A 2D Matrix                                        | [Solution](src/binary_search/search_a_2d_matrix.js)                                   | Medium     | Binary Search                         |
 | 76         | Minimum Window Substring                                  | [Solution](src/sliding_window/minimum_window_substring.js)                            | Hard       | Sliding Window                        |
 | 76         | Minimum Window Substring                                  | [Solution](src/sliding_window/minimum_window_substring.js)                            | Hard       | Sliding Window                        |
