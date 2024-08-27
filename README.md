@@ -26,6 +26,7 @@ LeetCode solutions in JavaScript programming language.
 | 39         | Combination Sum                                           | [Solution](src/backtracking/combination_sum.js)                                       | Medium     | Backtracking                          |
 | 40         | Combination Sum II                                        | [Solution](src/backtracking/combination_sum_ii.js)                                    | Medium     | Backtracking                          |
 | 42         | Trapping Rain Water                                       | [Solution](src/array/trapping_rain_water.js)                                          | Hard       | Array, Two Pointers                   |
+| 43         | Multiply Strings                                          | [Solution](src/math/multiply_strings.js)                                              | Medium     | Math, Strings                         |
 | 46         | Permutations                                              | [Solution](src/backtracking/permutations.js)                                          | Medium     | Backtracking                          |
 | 48         | Rotate Image                                              | [Solution](src/math/rotate_image.js)                                                  | Medium     | Math, Matrix                          |
 | 49         | Group Anagrams                                            | [Solution](src/string/group_anagrams.js)                                              | Medium     | String, Hashing                       |
