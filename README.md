@@ -34,6 +34,7 @@ LeetCode solutions in JavaScript programming language.
 | 51         | N Queens                                                  | [Solution](src/backtracking/n_queens.js)                                              | Hard       | Backtracking                          |
 | 53         | Maximum Subarray                                          | [Solution](src/dynamic_programming/spiral_matrix.js)                                  | Medium     | Dynamic Programming                   |
 | 54         | Spiral Matrix                                             | [Solution](src/matrix/spiral_matrix.js)                                               | Medium     | Matrix                                |
+| 55         | Jump Game                                                 | [Solution](src/greedy/jump_game.js)                                                   | Medium     | Greedy                                |
 | 56         | Merge Intervals                                           | [Solution](src/intervals/merge_intervals.js)                                          | Medium     | Intervals, Array                      |
 | 57         | Insert Interval                                           | [Solution](src/intervals/insert_interval.js)                                          | Medium     | Intervals, Array                      |
 | 62         | Unique Paths                                              | [Solution](src/dynamic_programming/unique_paths.js)                                   | Medium     | Dynamic Programming                   |
