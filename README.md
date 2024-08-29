@@ -64,6 +64,7 @@ LeetCode solutions in JavaScript programming language.
 | 130        | Surrounded Regions                                        | [Solution](src/dfs/surrounded_regions.js)                                             | Medium     | DFS                                   |
 | 131        | Palindrome Partitioning                                   | [Solution](src/backtracking/palindrome_partitioning.js)                               | Medium     | Backtracking                          |
 | 133        | Clone Graph                                               | [Solution](src/graph/clone_graph.js)                                                  | Medium     | Graph, DFS                            |
+| 134        | Gas Station                                               | [Solution](src/greedy/gas_station.js)                                                 | Medium     | Greedy                                |
 | 136        | Single Number                                             | [Solution](src/bit_manipulation/single_number.js)                                     | Easy       | bit Manipulation                      |
 | 138        | Copy List With Random Pointer                             | [Solution](src/linked_list/copy_list_with_random_pointer.js)                          | Medium     | Linked List, Hashing                  |
 | 139        | Word Break                                                | [Solution](src/dynamic_programming/word_break.js)                                     | Medium     | Dynamic Programming                   |
