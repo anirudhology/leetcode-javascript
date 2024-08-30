@@ -132,6 +132,7 @@ LeetCode solutions in JavaScript programming language.
 | 704        | Binary Search                                             | [Solution](src/binary_search/binary_search.js)                                        | Easy       | Binary Search                         |
 | 739        | Daily Temperatures                                        | [Solution](src/stack/daily_temperatures.js)                                           | Medium     | Stack, Monotonic Stack                |
 | 746        | Min Cost Climbing Stairs                                  | [Solution](src/dynamic_programming/min_cost_climbing_stairs.js)                       | Easy       | Dynamic Programming                   |
+| 763        | Partition Labels                                          | [Solution](src/greedy/partition_labels.js)                                            | Medium     | Greedy                                |
 | 846        | Hand Of Straights                                         | [Solution](src/greedy/hand_of_straights.js)                                           | Medium     | Greedy                                |
 | 853        | Car Fleet                                                 | [Solution](src/stack/car_fleet.js)                                                    | Medium     | Stack, Monotonic Stack                |
 | 875        | Koko Eating Bananas                                       | [Solution](src/binary_search/koko_eating_bananas.js)                                  | Medium     | Binary Search                         |
