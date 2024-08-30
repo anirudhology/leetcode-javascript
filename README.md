@@ -125,6 +125,7 @@ LeetCode solutions in JavaScript programming language.
 | 572        | Subtree Of Another Tree                                   | [Solution](src/tree/subtree_of_another_tree.js)                                       | Easy       | Binary Tree                           |
 | 621        | Task Scheduler                                            | [Solution](src/heap/task_scheduler.js)                                                | Medium     | Heap, Queue                           |
 | 647        | Palindromic Substring                                     | [Solution](src/dynamic_programming/palindromic_substring.js)                          | Medium     | Dynamic Programming, Two Pointers     |
+| 678        | Valid Parenthesis String                                  | [Solution](src/greedy/valid_parenthesis_string.js)                                    | Medium     | Greedy                                |
 | 684        | Redundant Connection                                      | [Solution](src/union_find/redundant_connection.js)                                    | Medium     | Union Find, Graph                     |
 | 695        | Max Area Of Island                                        | [Solution](src/dfs/max_area_of_island.js)                                             | Medium     | DFS                                   |
 | 703        | Kth Largest Element In A Stream                           | [Solution](src/heap/kth_largest_element_in_a_stream.js)                               | Easy       | Heap                                  |
