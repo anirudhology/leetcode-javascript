@@ -57,6 +57,7 @@ LeetCode solutions in JavaScript programming language.
 | 104        | Maximum Depth Of Binary Tree                              | [Solution](src/tree/maximum_depth_of_binary_tree.js)                                  | Easy       | Binary Tree, Recursion                |
 | 105        | Construct Binary Tree From Preorder And Inorder Traversal | [Solution](src/tree/construct_binary_tree_from_preorder_and_inorder_traversal.js)     | Medium     | Binary Tree, DFS                      |
 | 110        | Balanced Binary Tree                                      | [Solution](src/tree/balanced_binary_tree.js)                                          | Easy       | Binary Tree, DFS                      |
+| 115        | Distinct Subsequences                                     | [Solution](src/dynamic_programming/distinct_subsequences.js)                          | Hard       | Dynamic Programming                   |
 | 121        | Best Time To Buy And Sell Stocks                          | [Solution](src/sliding_window/best_time_to_buy_and_sell_stocks.js)                    | Easy       | Sliding Window                        |
 | 124        | Binary Tree Maximum Path Sum                              | [Solution](src/tree/binary_tree_maximum_path_sum.js)                                  | Hard       | Binary Tree, DFS                      |
 | 125        | Valid Palindrome                                          | [Solution](src/string/valid_palindrome.js)                                            | Medium     | String, Two Pointers                  |
