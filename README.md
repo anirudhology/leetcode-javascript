@@ -12,6 +12,7 @@ LeetCode solutions in JavaScript programming language.
 | 4          | Median Of Two Sorted Arrays                               | [Solution](src/binary_search/median_of_two_sorted_arrays.js)                          | Hard       | Binary Search                         |
 | 5          | Longest Palindromic Substring                             | [Solution](src/dynamic_programming/longest_palindromic_substring.js)                  | Medium     | Dynamic Programming                   |
 | 7          | Reverse Integer                                           | [Solution](src/math/reverse_integer.js)                                               | Medium     | Math                                  |
+| 10         | Regular Expression Matching                               | [Solution](src/dynamic_programming/regular_expression_matching.js)                    | Hard       | Dynamic Programming                   |
 | 11         | Container With Most Water                                 | [Solution](src/array/container_with_most_water.js)                                    | Medium     | Array, Two Pointers                   |
 | 15         | 3 Sum                                                     | [Solution](src/array/three_sum.js)                                                    | Medium     | Array, Sorting, Two Pointers          |
 | 17         | Letter Combinations Of A Phone Number                     | [Solution](src/backtracking/letter_combinations_of_a_phone_number.js)                 | Medium     | Backtracking                          |
