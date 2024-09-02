@@ -112,6 +112,7 @@ LeetCode solutions in JavaScript programming language.
 | 297        | Serialize And Deserialize Binary Tree                     | [Solution](src/tree/serialize_and_deserialize_binary_tree.js)                         | Hard       | Binary Tree, DFS                      |
 | 300        | Longest Increasing Subsequence                            | [Solution](src/dynamic_programming/longest_increasing_subsequence.js)                 | Medium     | Dynamic Programming                   |
 | 309        | Best Time To Buy And Sell Stocks With Cooldown            | [Solution](src/dynamic_programming/best_time_to_buy_and_sell_stocks_with_cooldown.js) | Medium     | Dynamic Programming                   |
+| 312        | Burst Balloons                                            | [Solution](src/dynamic_programming/burst_balloons.js)                                 | Hard       | Dynamic Programming                   |
 | 322        | Coin Change                                               | [Solution](src/dynamic_programming/coin_change.js)                                    | Medium     | Dynamic Programming                   |
 | 323        | Number Of Connected Components In An Undirected Graph     | [Solution](src/union_find/number_of_connected_components_in_an_undirected_graph.js)   | Medium     | Graph, Union Find                     |
 | 329        | Longest Increasing Path In A Matrix                       | [Solution](src/dynamic_programming/longest_increasing_path_in_a_matrix.js)            | Hard       | Dynamic Programming, DFS              |
