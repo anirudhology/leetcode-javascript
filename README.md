@@ -136,6 +136,7 @@ LeetCode solutions in JavaScript programming language.
 | 703        | Kth Largest Element In A Stream                           | [Solution](src/heap/kth_largest_element_in_a_stream.js)                               | Easy       | Heap                                  |
 | 704        | Binary Search                                             | [Solution](src/binary_search/binary_search.js)                                        | Easy       | Binary Search                         |
 | 739        | Daily Temperatures                                        | [Solution](src/stack/daily_temperatures.js)                                           | Medium     | Stack, Monotonic Stack                |
+| 743        | Network Delay Time                                        | [Solution](src/graph/network_delay_time.js)                                           | Medium     | Graph, Dijkstra's                     |
 | 746        | Min Cost Climbing Stairs                                  | [Solution](src/dynamic_programming/min_cost_climbing_stairs.js)                       | Easy       | Dynamic Programming                   |
 | 763        | Partition Labels                                          | [Solution](src/greedy/partition_labels.js)                                            | Medium     | Greedy                                |
 | 846        | Hand Of Straights                                         | [Solution](src/greedy/hand_of_straights.js)                                           | Medium     | Greedy                                |
