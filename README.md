@@ -149,6 +149,7 @@ LeetCode solutions in JavaScript programming language.
 | 1046       | Last Stone Weight                                         | [Solution](src/heap/last_stone_weight.js)                                             | Easy       | Backtracking                          |
 | 1143       | Longest Common Subsequence                                | [Solution](src/dyaamic_programming/longest_common_subsequence.js)                     | Medium     | Dynamic Programming                   |
 | 1448       | Count Good Nodes In Binary Tree                           | [Solution](src/tree/count_good_nodes_in_binary_tree.js)                               | Medium     | Binary Tree, DFS                      |
+| 1584       | Min Cost To Connect All Points                            | [Solution](src/graph/min_cost_to_connect_all_points.js)                               | Medium     | Graph, Prim's                         |
 | 1851       | Minimum Interval To Include Each Query                    | [Solution](src/intervals/minimum_interval_to_include_each_query.js)                   | Hard       | Intervals, Heap                       |
 | 1899       | Merge Triplets To Form Target Triplet                     | [Solution](src/greedy/merge_triplets_to_form_target_triplet.js)                       | Medium     | Greedy                                |
 | 2013       | Detect Squares                                            | [Solution](src/math/detect_squares.js)                                                | Medium     | Math, Geometry                        |
