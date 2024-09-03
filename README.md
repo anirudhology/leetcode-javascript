@@ -116,6 +116,7 @@ LeetCode solutions in JavaScript programming language.
 | 322        | Coin Change                                               | [Solution](src/dynamic_programming/coin_change.js)                                    | Medium     | Dynamic Programming                   |
 | 323        | Number Of Connected Components In An Undirected Graph     | [Solution](src/union_find/number_of_connected_components_in_an_undirected_graph.js)   | Medium     | Graph, Union Find                     |
 | 329        | Longest Increasing Path In A Matrix                       | [Solution](src/dynamic_programming/longest_increasing_path_in_a_matrix.js)            | Hard       | Dynamic Programming, DFS              |
+| 332        | Reconstruct Itinerary                                     | [Solution](src/graph/reconstruct_itinerary.js)                                        | Hard       | Graph, Heap                           |
 | 338        | Counting Bits                                             | [Solution](src/bit_manipulation/counting_bits.js)                                     | Easy       | Bit Manipulation, Dynamic Programming |
 | 347        | Top K Frequent Elements                                   | [Solution](src/array/top_k_frequent_elements.js)                                      | Medium     | Array, Bucket Sort                    |
 | 355        | Design Twitter                                            | [Solution](src/design/design_twitter.js)                                              | Medium     | Design, Heap                          |
