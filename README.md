@@ -141,6 +141,7 @@ LeetCode solutions in JavaScript programming language.
 | 743        | Network Delay Time                                        | [Solution](src/graph/network_delay_time.js)                                           | Medium     | Graph, Dijkstra's                     |
 | 746        | Min Cost Climbing Stairs                                  | [Solution](src/dynamic_programming/min_cost_climbing_stairs.js)                       | Easy       | Dynamic Programming                   |
 | 763        | Partition Labels                                          | [Solution](src/greedy/partition_labels.js)                                            | Medium     | Greedy                                |
+| 778        | Swim In Rising Water                                      | [Solution](src/graph/swim_in_rising_water.js)                                         | Hard       | Graph, Heap                           |
 | 846        | Hand Of Straights                                         | [Solution](src/greedy/hand_of_straights.js)                                           | Medium     | Greedy                                |
 | 853        | Car Fleet                                                 | [Solution](src/stack/car_fleet.js)                                                    | Medium     | Stack, Monotonic Stack                |
 | 875        | Koko Eating Bananas                                       | [Solution](src/binary_search/koko_eating_bananas.js)                                  | Medium     | Binary Search                         |
