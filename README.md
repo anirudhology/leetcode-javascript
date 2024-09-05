@@ -105,6 +105,7 @@ LeetCode solutions in JavaScript programming language.
 | 253        | Meeting Rooms II                                          | [Solution](src/intervals/meeting_rooms_ii.js)                                         | Medium     | Intervals, Sorting                    |
 | 261        | Graph Valid Tree                                          | [Solution](src/graph/graph_valid_tree.js)                                             | Medium     | Graph, BFS                            |
 | 268        | Missing Number                                            | [Solution](src/math/missing_number.js)                                                | Easy       | Math                                  |
+| 269        | Alien Dictionary                                          | [Solution](src/graph/alien_dictionary.js)                                             | Hard       | Graph, Topological Sort               |
 | 271        | Encode And Decode Strings                                 | [Solution](src/string/encode_and_decode_strings.js)                                   | Medium     | String                                |
 | 286        | Walls And Gates                                           | [Solution](src/bfs/walls_and_gates.js)                                                | Medium     | BFS                                   |
 | 287        | Find The Duplicate Number                                 | [Solution](src/linked_list/find_the_duplicate_number.js)                              | Medium     | Two Pointers                          |
