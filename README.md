@@ -50,6 +50,7 @@ LeetCode solutions in JavaScript programming language.
 | 78         | Subsets                                                   | [Solution](src/backtracking/subsets.js)                                               | Medium     | Backtracking                          |
 | 79         | Word Search                                               | [Solution](src/backtracking/word_search.js)                                           | Medium     | Backtracking, DFS                     |
 | 84         | Largest Rectangle In Histogram                            | [Solution](src/stack/largest_rectangle_in_histogram.js)                               | Hard       | Stack, Monotonic Stack                |
+| 88         | Merge Sorted Array                                        | [Solution](src/array/merge_sorted_array.js)                                           | Easy       | Array, Two Pointers                   |
 | 90         | Subsets II                                                | [Solution](src/backtracking/subsets_ii.js)                                            | Medium     | Backtracking                          |
 | 91         | Decode Ways                                               | [Solution](src/dynamic_programming/decode_ways.js)                                    | Medium     | Dynamic Programming                   |
 | 97         | Interleaving String                                       | [Solution](src/dynamic_programming/interleaving_string.js)                            | Medium     | Dynamic Programming                   |
